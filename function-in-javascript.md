@@ -1,7 +1,7 @@
 # Function in Javascript
 
 
-*this post assumes that your already know javascript function*
+*this post assumes that you already know javascript function*
 
 
 

@@ -1,5 +1,5 @@
 # javascript-with-shipon
-I love to write about anything I learn. Javascript is one of the fascinating thing and the thing I love very much. When I explore the world of this language I always try make some notes containing the all cases and crucial points of the concepts so that it may become a handy note. These are the some notes I published so that other may benefit:
+I love to write about anything I learn. Javascript is one of the fascinating thing and the thing I love very much. When I explore the world of this language I always try to make some notes containing all important cases and crucial points of the concepts so that it may become a handy note. These are the some notes I published so that other may benefit:
 
 - [javascript-1](javascript-1.md): discusses hoisting, closures and technique of debugging a code
 - [javascript-2](javascript-2.md): discusses about `this` keyword and where `this` points to based on the different *contexts*.
